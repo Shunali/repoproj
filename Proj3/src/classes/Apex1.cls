@@ -1,3 +1,3 @@
 public with sharing class Apex1 {
-	public void abc();
+	public void abcd();
 }
